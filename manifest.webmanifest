@@ -1,0 +1,25 @@
+{
+ "name": "Kayıt Defteri",
+ "short_name": "Kayıt Defteri",
+ "description": "İş, Araştırma ve Kişisel defterler için tek panel",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0F1318",
+ "theme_color": "#0F1318",
+ "lang": "tr",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
